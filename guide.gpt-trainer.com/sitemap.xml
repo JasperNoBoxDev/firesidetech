@@ -1,0 +1,250 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/agents/create</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/agents/delete</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/agents/fetch_multi</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/agents/properties-reference</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/agents/update</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/api-key-setup</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/chatbots/create</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/chatbots/delete</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/chatbots/fetch</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/chatbots/fetch_multi</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/chatbots/properties-reference</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/chatbots/update</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/data-sources/create-file</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/data-sources/create-qa</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/data-sources/create-url</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/data-sources/delete</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/data-sources/delete_multi</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/data-sources/fetch_multi</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/data-sources/properties-reference</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/data-sources/retrain</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/data-sources/update</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/guide-00-chatbot-create</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/guide-01-chat</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/guide-02-source</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/messages/create</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/messages/delete</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/messages/delete_multi</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/messages/fetch_multi</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/messages/properties-reference</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/sessions/create</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/sessions/delete</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/sessions/delete_multi</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/sessions/fetch</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/sessions/fetch_multi</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/sessions/properties-reference</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/source-tags/create</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/source-tags/delete</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/source-tags/fetch-multi</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/api-reference/source-tags/update</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/best-practices</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/byok-pricing-guide</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/conversation-labeling</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/creating-first-chatbot</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/fine-tuning-agent-intents</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/help</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/human-support-escalation</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/inbox-notifications</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/lead-collection</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/multi-agents-chatbot</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/rag-from-external-data-provider</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/supervisor-overrides</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/tools/tools-intro</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/tools/weekday</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/user-identity</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/whitelabel/whitelabel-intro</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/whitelabel/whitelabel-make</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/whitelabel/whitelabel-meta</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/whitelabel/whitelabel-plans</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/whitelabel/whitelabel-users</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/whitelabel/whitelabel-zapier</loc>
+  </url>
+
+  <url>
+    <loc>https://guide.gpt-trainer.com/working-with-tables</loc>
+  </url>
+</urlset>
